@@ -842,3 +842,8 @@ $_L['cron_invoice_created'] = 'إرسال الفواتير بواسطة البر
 $_L['Invoice Creation Method'] = 'طريقة إنشاء الفواتير';
 $_L['Default'] = 'الوضع الإفتراضي';
 $_L['V2'] = 'V2 (طريقة جديدة)';
+
+# increase Security
+
+$_L['Invalid Captcha'] = 'القيمة المدخلة لا تتوافق مع الصورة';
+$_L['Captcha'] = 'أكتب ما هو موجود بالصورة';

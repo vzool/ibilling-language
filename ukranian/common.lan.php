@@ -776,3 +776,7 @@ $_L['Default'] = 'Default';
 $_L['V2'] = 'V2';
 
 
+# increase Security
+
+$_L['Invalid Captcha'] = 'Invalid Captcha';
+$_L['Captcha'] = 'Captcha';
