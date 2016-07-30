@@ -780,4 +780,5 @@ $_L['V2'] = 'V2';
 
 $_L['Invalid Captcha'] = 'Invalid Captcha';
 $_L['Captcha'] = 'Captcha';
+$_L['Security Keys Mismatch'] = 'Security Keys Mismatch';
 
